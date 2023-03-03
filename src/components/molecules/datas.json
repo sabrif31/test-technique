@@ -1,0 +1,5662 @@
+[
+  {
+    "sector": "Informatique",
+    "category": "Digital (Web / mobile)",
+    "activity": "Webdesign, intégration (dont UX/UI)"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Digital (Web / mobile)",
+    "activity": "Intégration CMS"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Digital (Web / mobile)",
+    "activity": "Référencement (dont SEO, traffic management, etc.)"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Digital (Web / mobile)",
+    "activity": "Création, achat, gestion de noms de domaine"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Digital (Web / mobile)",
+    "activity": "Développement, intégration de solutions e-commerce"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Digital (Web / mobile)",
+    "activity": "Développement de plateforme de mise en relation (B2B, B2C, de produits, de personnes, et de services)"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Digital (Web / mobile)",
+    "activity": "Edition, développement web / application mobile"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Digital (Web / mobile)",
+    "activity": "Autre - Digital (Web / mobile)"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Logiciel",
+    "activity": "Développement, programmation de logiciels / progiciels"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Logiciel",
+    "activity": "Test / recettes de logiciels / progiciels"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Logiciel",
+    "activity": "Vente, installation, paramétrage de logiciels / progiciels"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Logiciel",
+    "activity": "Consultant ERP, CRM, BI, Datamining (ex.: Oracle, SAP, Microsoft)"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Logiciel",
+    "activity": "Développement, programmation d'applications spécifiques / à façon"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Logiciel",
+    "activity": "Intégration de logiciels / progiciels"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Logiciel",
+    "activity": "Edition de logiciels / progiciels"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Logiciel",
+    "activity": ""
+  },
+  {
+    "sector": "Informatique",
+    "category": "Jeux vidéos",
+    "activity": "Game design, UX, gameplay"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Jeux vidéos",
+    "activity": "Animation 2D/3D"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Jeux vidéos",
+    "activity": "Réalité augmentée / virtuelle"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Jeux vidéos",
+    "activity": "Edition de jeux vidéos"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Jeux vidéos",
+    "activity": "Développement / tests de jeux vidéo"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Jeux vidéos",
+    "activity": "Autre - Jeux vidéos"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Architecte",
+    "activity": "Architecte systèmes / réseaux / cloud"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Architecte",
+    "activity": "Architecte logiciel"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Architecte",
+    "activity": "Architectes / Ingénieurs"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Architecte",
+    "activity": "Autre - Architecte - Informatique"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Maintenance",
+    "activity": "Maintenance de matériel informatique"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Maintenance",
+    "activity": "Maintenance de matériel télécom"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Maintenance",
+    "activity": "Assistance, helpdesk, maintenance, tierce maintenance applicative, mises à jour"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Maintenance",
+    "activity": "Tierce maintenance de systèmes et d'applications informatiques"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Maintenance",
+    "activity": "Maintenance de logiciels"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Maintenance",
+    "activity": "Assistance informatique"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Maintenance",
+    "activity": "Autre - Maintenance - Informatique"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Service et conseil en informatique",
+    "activity": "Installation, configuration, paramétrage, distribution de matériel informatique"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Service et conseil en informatique",
+    "activity": "Sécurisation du système de téléphonie"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Service et conseil en informatique",
+    "activity": "Product owner, Business analyst en informatique"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Service et conseil en informatique",
+    "activity": "Sécurité des systèmes d'information, dont tests d'intrusion"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Service et conseil en informatique",
+    "activity": "Maîtrise d'oeuvre / gestion de projet / Tech Lead / Lead developer"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Service et conseil en informatique",
+    "activity": "Gestion électrique des documents / Archivage numérique"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Service et conseil en informatique",
+    "activity": "Prestations informatiques en mode régie"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Service et conseil en informatique",
+    "activity": "Conseil en cybersécurité hors gestion de projet"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Service et conseil en informatique",
+    "activity": "DPO / Consultant en RGPD (ou Délégué à la Protection des Données / Consultant RGPD) à l'exclusion de tout exercice de cette activity par un avocat"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Service et conseil en informatique",
+    "activity": "Autres services (recrutement, veille, conseil en stratégie / organisation / marketing, etc.) dans la limite de 30% du chiffre d’affaires déclaré"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Service et conseil en informatique",
+    "activity": "Autre - Service et conseil en informatique"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Big Data / Cloud",
+    "activity": "DevOps"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Big Data / Cloud",
+    "activity": "Big Data / Data Science"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Big Data / Cloud",
+    "activity": "Cloud Computing"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Big Data / Cloud",
+    "activity": "Datamining, datascience"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Big Data / Cloud",
+    "activity": "Autre - Big Data / Cloud"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Formation",
+    "activity": "Formation (hors formation aux activitys privées de sécurité soumises à agrément du CNAPS)"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Formation",
+    "activity": "Formation aux systèmes d'information"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Formation",
+    "activity": "Autre - Formation - Informatique"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Hébergement",
+    "activity": "Hébergement de données (stockage, sauvegarde, etc.)"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Hébergement",
+    "activity": "Hébergement de site / application web"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Hébergement",
+    "activity": "Hébergement de données et applications informatiques"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Hébergement",
+    "activity": "Autre - Hébergement - Informatique"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Infrastructure / Réseau",
+    "activity": "Architecte systèmes / réseaux / cloud"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Infrastructure / Réseau",
+    "activity": "Administration systèmes, réseaux"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Infrastructure / Réseau",
+    "activity": "Administrateur / Architecte base de données"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Infrastructure / Réseau",
+    "activity": "Intégration systèmes / Réseaux"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Infrastructure / Réseau",
+    "activity": "Vente, location matériel informatique"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Infrastructure / Réseau",
+    "activity": "Infrastructure et Platform as a Service (laaS / PaaS)"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Infrastructure / Réseau",
+    "activity": "Infogérance"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Infrastructure / Réseau",
+    "activity": "Fournisseur accès internet"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Infrastructure / Réseau",
+    "activity": "Vente de matériel informatique"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Infrastructure / Réseau",
+    "activity": "Installation, configuration, paramétrage de matériel informatique"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Infrastructure / Réseau",
+    "activity": "Autre - Infrastructure / Réseau"
+  },
+  {
+    "sector": "Conseil",
+    "category": "RH / Recrutement",
+    "activity": "Conseil en ressources humaines"
+  },
+  {
+    "sector": "Conseil",
+    "category": "RH / Recrutement",
+    "activity": "Cabinet et/ou conseil en recrutement"
+  },
+  {
+    "sector": "Conseil",
+    "category": "RH / Recrutement",
+    "activity": "Chasseur de têtes"
+  },
+  {
+    "sector": "Conseil",
+    "category": "RH / Recrutement",
+    "activity": "Conseil et accompagnement à la mobilité professionnelle des salariés (hors activity d'agent immobilier, mise en relation avec des prestataires du bâtiment et vente de voyages ou séjours)"
+  },
+  {
+    "sector": "Conseil",
+    "category": "RH / Recrutement",
+    "activity": "Conseil en développement personnel / Coaching"
+  },
+  {
+    "sector": "Conseil",
+    "category": "RH / Recrutement",
+    "activity": "Consultant en ressources humaines"
+  },
+  {
+    "sector": "Conseil",
+    "category": "RH / Recrutement",
+    "activity": "Entreprise de travail temporaire"
+  },
+  {
+    "sector": "Conseil",
+    "category": "RH / Recrutement",
+    "activity": "Autre - RH / Recrutement"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Gestion Administrative et financière",
+    "activity": "Conseil en gestion de trésorerie, de comptabilité et en contrôle de gestion"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Gestion Administrative et financière",
+    "activity": "Tenue des livres de comptes (hors activity d'expertise-comptable)"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Gestion Administrative et financière",
+    "activity": "Conseil en recherche de financement et/ou de partenaires, assistance dans les négociations"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Gestion Administrative et financière",
+    "activity": "Conseil en optimisation des achats et maîtrise des frais généraux de l'entreprise (hors prestation de conseil en optimisation des charges fiscales et sociales)"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Gestion Administrative et financière",
+    "activity": "Développement d’outils bureautiques de gestion (tableaux de bord excel)"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Gestion Administrative et financière",
+    "activity": "Conseil et assistance à la constitution et au dépôt de dossiers administratifs"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Gestion Administrative et financière",
+    "activity": "Conseil en Crédit Impôt Recherche (exclusion des IOB)"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Gestion Administrative et financière",
+    "activity": "Conseil en réduction de coûts"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Gestion Administrative et financière",
+    "activity": "activitys administratives et de gestion"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Gestion Administrative et financière",
+    "activity": "Métiers de l'expertise comptable"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Gestion Administrative et financière",
+    "activity": "Autre - Gestion Administrative et financière"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Environnement / Qualité",
+    "activity": "Conseil et réalisation d'études stratégiques à destination des collectivités publiques ou des entreprises dans le domaine éducatif, social, de l'habitat, de l'urbanisme et du tourisme"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Environnement / Qualité",
+    "activity": "Conseil en gestion de risque"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Environnement / Qualité",
+    "activity": "Conseil et assistance à la constitution et au dépôt de dossiers administratifs / appels d'offres"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Environnement / Qualité",
+    "activity": "Conseil en qualité, santé, sécurité, environnement"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Environnement / Qualité",
+    "activity": "Conseil en qualité et/ou en certification"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Environnement / Qualité",
+    "activity": "Conseil en environnement et développement durable"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Environnement / Qualité",
+    "activity": "Conseil en économie d'énergie"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Environnement / Qualité",
+    "activity": "Conseil en responsabilité sociale d'entreprise"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Environnement / Qualité",
+    "activity": "Réalisation d'audits de certifications portant sur les méthodes d'organisation et de process des entreprises"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Environnement / Qualité",
+    "activity": "Conseil et formation à destination des entreprises en matière d'éthique et de conformité législative, réglementaire et/ou déontologique (compliance)"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Environnement / Qualité",
+    "activity": "Conseil pour la prévention des risques psychosociaux"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Environnement / Qualité",
+    "activity": "Conseil en sûreté (hors sites aéroportuaires et nucléaires)"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Environnement / Qualité",
+    "activity": "Conseil et assistance aux professionnels du bâtiment dans la gestion des Certificats d'Economie d'Energie (CEE)"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Environnement / Qualité",
+    "activity": "Assistance à la constitution et au dépôt des dossiers auprès du Pôle National des Certificats d'Economies d'Energie"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Environnement / Qualité",
+    "activity": "Recherche de la valorisation la plus élevée des CEE pour le compte des professionnels du bâtiment, ces derniers restant maître de la conclusion de l'opération"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Environnement / Qualité",
+    "activity": "Autre - Environnement / Qualité"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Externalisation",
+    "activity": "Externalisation de la paie, des cotisations sociales et de la gestion administrative du personnel"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Externalisation",
+    "activity": "Externalisation de tâches administratives"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Externalisation",
+    "activity": "Externalisation du management des fonctions support de l'entreprise"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Externalisation",
+    "activity": "Externalisation du suivi et développement commercial en qualité d'agent commercial / apporteur d'affaires (hors prestations réglementées, courtiers en voyage et mise en relation dans le bâtiment)"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Externalisation",
+    "activity": "Externalisation de la rédaction du document unique d'évaluation des risques professionnels"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Externalisation",
+    "activity": "Conseil en externalisation"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Externalisation",
+    "activity": "Autre - Externalisation - Conseil"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Informatique",
+    "activity": "Conseil, études, audit, AMOA (dont la gestion de projet valant moins d'un million d'euros)"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Informatique",
+    "activity": "Consultant ERP, CRM, BI, Datamining (exemple : SAP, Microsoft..)"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Informatique",
+    "activity": "Conseil en systèmes d'information"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Informatique",
+    "activity": "Conseil en systèmes et logiciels informatiques"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Informatique",
+    "activity": "Conseil en sécurité des systèmes d'information"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Informatique",
+    "activity": "activitys informatiques annexes - hors sectors automobile & aéroports / logiciels de paiement / contrôle de machines & SCADA / sector médical / logiciels SAP / Oracle"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Informatique",
+    "activity": "Autre - Informatique - Conseil"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Télécom",
+    "activity": "Opérateur télécom"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Télécom",
+    "activity": "Services télécoms (VPN, Ethernet, IP/VOIP, email, visioconférence, etc.)"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Télécom",
+    "activity": "Vente, location de matériel télécom"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Télécom",
+    "activity": "Installation configuration, paramétrage de matériel télécom"
+  },
+  {
+    "sector": "Informatique",
+    "category": "Télécom",
+    "activity": "Conseil en télécommunication"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Télécom",
+    "activity": "Autre - Télécom - Conseil"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Conseil en stratégie et Organisation",
+    "activity": "Conseil en stratégie, organisation, développement et management d'entreprises"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Conseil en stratégie et Organisation",
+    "activity": "Conseil en systèmes de production"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Conseil en stratégie et Organisation",
+    "activity": "Conseil en stratégie, organisation, développement commercial"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Conseil en stratégie et Organisation",
+    "activity": "Agence pour la création et/ou le développement d'entreprises"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Conseil en stratégie et Organisation",
+    "activity": "Conseil en fusion et acquisition portant sur la stratégie, la gestion et le suivi du projet, la coordination des différents intervenants, la recherche de financement, la négociation, la valorisation d'entreprises (hors prestation relevant d'une profession réglementée, prospective financière et conseil en investissement financier)"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Conseil en stratégie et Organisation",
+    "activity": "Conseil en logistique"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Conseil en stratégie et Organisation",
+    "activity": "Conseil en import"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Conseil en stratégie et Organisation",
+    "activity": "Conseil en export"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Conseil en stratégie et Organisation",
+    "activity": "Conseil en gestion de crise"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Conseil en stratégie et Organisation",
+    "activity": "Conseil en marketing"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Conseil en stratégie et Organisation",
+    "activity": "activitys annexes en matière de marketing et/ou communication - hors marketing direct / journalisme / impression / réseaux sociaux / design industriel / drones"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Conseil en stratégie et Organisation",
+    "activity": "Autre - Conseil en stratégie et Organisation"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Fonction par intérim",
+    "activity": "Poste de direction par intérim"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Fonction par intérim",
+    "activity": "Turnaround management"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Fonction par intérim",
+    "activity": "Management de transition"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Ingénierie",
+    "activity": "Architecte dans le bâtiment"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Ingénierie",
+    "activity": "Architecte d'intérieure"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Ingénierie",
+    "activity": "Consultant ingénieur (hors conseil en aéronautique ; spatial ; nucléaire ; automobile)"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Recherche & Développement",
+    "activity": "Bureau d'étude, ingénierie"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Recherche & Développement",
+    "activity": "R&D Biotechnologique"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Recherche & Développement",
+    "activity": "R&D Pharmaceutique"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Recherche & Développement",
+    "activity": "R&D Aéronautique"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Recherche & Développement",
+    "activity": "R&D Aéronautique"
+  },
+  {
+    "sector": "Conseil",
+    "category": "Recherche & Développement",
+    "activity": "R&D Transport"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat des instruments de musique",
+    "activity": "Artisan archetier"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat des instruments de musique",
+    "activity": "Artisan fabricant d’anches"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat des instruments de musique",
+    "activity": "Artisan facteur et/ou restaurateur d’accordéons"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat des instruments de musique",
+    "activity": "Artisan facteur et/ou restaurateur de harpes"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat des instruments de musique",
+    "activity": "Artisan facteur et/ou restaurateur d’harmoniums"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat des instruments de musique",
+    "activity": "Artisan facteur et / ou restaurateur d’instruments à claviers"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat des instruments de musique",
+    "activity": "Artisan facteur et/ou restaurateur d’instruments à vent"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat des instruments de musique",
+    "activity": "Artisan et ou restaurateur d’instrument de musique mécanique"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat des instruments de musique",
+    "activity": "Artisan facteur et/ou restauration d’instruments traditionnels"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat des instruments de musique",
+    "activity": "Artisan facteur et/ou restaurateur d’orgues"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat des instruments de musique",
+    "activity": "Artisan facteur et/ou restauration de percussions"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat des instruments de musique",
+    "activity": "Artisan luthier en guitare et/ou restauration de guitares"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat des instruments de musique",
+    "activity": "Artisan luthier et/ou restaurateur d’instruments à cordes frottées"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat des instruments de musique",
+    "activity": "Autre - Artisanat des instruments de musique"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat du bâtiment",
+    "activity": "Peintre"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat du bâtiment",
+    "activity": "Maçon"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat du bâtiment",
+    "activity": "Electricien"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat du bâtiment",
+    "activity": "Carreleur"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan bottier"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan boutonnier"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan brodeur"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan chapelier"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan corsetier"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan costumier"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan couturier"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan ennoblisseur textile"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan éventailliste"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan feutrier"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan formier"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan fourreur"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan gainier"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan gantier"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan lunetier"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan malletier"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan maroquinier"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan mégissier"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan modéliste"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan modiste"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan perruquier"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan plumassier"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan restaurateur de textiles"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan sellier-maroquinier"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan sérigraphe"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan tailleur"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan tanneur"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan tisserand"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan tresseur"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan fresquiste"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Artisan tapissier d'ameublement et/ou tapissier décorateur"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Artisanat textile et habillement",
+    "activity": "Autre - Artisanat textile et habillement"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Art / Artisanat ameublement, décoration, restauration de bien",
+    "activity": "Artisan dentellier"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Art / Artisanat ameublement, décoration, restauration de bien",
+    "activity": "Artisan pareur"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Art / Artisanat ameublement, décoration, restauration de bien",
+    "activity": "Artisan parurier floral"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Art / Artisanat ameublement, décoration, restauration de bien",
+    "activity": "Artisan céramiste"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Art / Artisanat ameublement, décoration, restauration de bien",
+    "activity": "Artisan décorateur sur céramique"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Art / Artisanat ameublement, décoration, restauration de bien",
+    "activity": "Artisan doreur"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Art / Artisanat ameublement, décoration, restauration de bien",
+    "activity": "Artisan encadreur"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Art / Artisanat ameublement, décoration, restauration de bien",
+    "activity": "Artisan enlumineur"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Art / Artisanat ameublement, décoration, restauration de bien",
+    "activity": "Artisan fabricant de compositions végétales stables et durables"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Art / Artisanat ameublement, décoration, restauration de bien",
+    "activity": "Artisan laqueur"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Art / Artisanat ameublement, décoration, restauration de bien",
+    "activity": "Artisan mosaïste"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Art / Artisanat ameublement, décoration, restauration de bien",
+    "activity": "Artisan mouleur"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Art / Artisanat ameublement, décoration, restauration de bien",
+    "activity": "Artisan passementier"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Art / Artisanat ameublement, décoration, restauration de bien",
+    "activity": "Artisan peintre en décor"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Art / Artisanat ameublement, décoration, restauration de bien",
+    "activity": "Artisan peintre sur mobilier"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Art / Artisanat ameublement, décoration, restauration de bien",
+    "activity": "Artisan relieur"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Art / Artisanat ameublement, décoration, restauration de bien",
+    "activity": "Artisan restaurateur de céramique"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Art / Artisanat ameublement, décoration, restauration de bien",
+    "activity": "Artisan restaurateur de documents graphiques et imprimés"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Art / Artisanat ameublement, décoration, restauration de bien",
+    "activity": "Artisan restaurateur de peintures et/ou photographies"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Art / Artisanat ameublement, décoration, restauration de bien",
+    "activity": "Artisan santonnier"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Art / Artisanat ameublement, décoration, restauration de bien",
+    "activity": "Calligraphie"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Art / Artisanat ameublement, décoration, restauration de bien",
+    "activity": "Galerie d’art"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Art / Artisanat ameublement, décoration, restauration de bien",
+    "activity": "Autre - Art / Artisanat ameublement, décoration, restauration de bien"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Fabrication / Artisanat",
+    "activity": "Fabrication de machines à café"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Fabrication / Artisanat",
+    "activity": "Torréfacteur"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Fabrication / Artisanat",
+    "activity": "Créatrice de bijoux"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Vente de photographies / accessoires photographiques"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Vente de chaussure (petit commerce)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Vente d’objets de décoration intérieure, luminaire et petit mobiliers (hors magasin de meuble et literie)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Vente d’objets publicitaires sans fabrication (petit commerce)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Supérettes (entre 120 et 400m2)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Magasins multi-commerces"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Boulangerie, pâtisserie et confiserie"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Poissonerie, poissons, crustacés et mollusques en magasin spécialisé"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Boucherie, viandes et produits à base de viande en magasin spécialisé"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Fruits et légumes en magasin spécialisé"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Supermarchés (C.A alimentaire > 65% des ventes, surfface de vente comprise entre 400 et 2500m2)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Matériels audio et vidéo en magasin spécialisé"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Matériels de télécommunication en magasin spécialisé"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Vente d'ordinateurs, unités périphériques, et logiciels en magasin"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Commerce de détail d'alimentation générale"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Commerce de détail de produits surgelés"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Vente de vêtements et accessoires (petit commerce)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Vente de Bricolage / outillage sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Vente d'accessoires beauté et bien-être sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Vente de café sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Vente de peinture sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Vente de jeux pour enfants sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Vente de puériculture sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Vente d'accessoires pour animaux sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Vente de maroquinerie sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Vente de jardinerie sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Vente de cosmétiques sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Vente de bijouterie sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Vente d'accessoires vestimentaires sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Vente d'accessoires sportifs sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Vente de vélos et vélos à assistance électriques"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Vente d'accessoires automobiles sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Vente d'accessoires industriels sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Vente d'accessoires culinaires sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Vente de literie sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Vente de trotinnettes et trotinnettes électriques sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Vente d'électroménagers sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de détail",
+    "activity": "Autre - Commerce de détail"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "eCommerce (hors dropshipping)",
+    "activity": "Site de e-commerce bricolage / outillage (hors dropshipping) sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "eCommerce (hors dropshipping)",
+    "activity": "Site de e-commerce textiles (hors dropshipping) sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "eCommerce (hors dropshipping)",
+    "activity": "Site de e-commerce high-tech (hors dropshipping) sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "eCommerce (hors dropshipping)",
+    "activity": "Site de e-commerce décoration intérieure / petits mobiliers / luminaires (hors magasin de meubles / litierie et dropshipping) sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "eCommerce (hors dropshipping)",
+    "activity": "Site de e-commerce d'objets publicitaires (hors dropshipping) sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "eCommerce (hors dropshipping)",
+    "activity": "Site de e-commerce d'accessoires beauté et bien-être (hors dropshipping) sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "eCommerce (hors dropshipping)",
+    "activity": "Site de e-commerce de café, théo, cacao, épices (hors dropshipping) sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "eCommerce (hors dropshipping)",
+    "activity": "Site de e-commerce de peinture (hors dropshipping) sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "eCommerce (hors dropshipping)",
+    "activity": "Site de e-commerce de jeux pour enfants (hors dropshipping) sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "eCommerce (hors dropshipping)",
+    "activity": "Site de e-commerce de puériculture (hors dropshipping) sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "eCommerce (hors dropshipping)",
+    "activity": "Site de e-commerce d'accessoires pour animaux (hors dropshipping) sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "eCommerce (hors dropshipping)",
+    "activity": "Site de e-commerce de maroquinerie (hors dropshipping) sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "eCommerce (hors dropshipping)",
+    "activity": "Site de e-commerce de jardinerie (hors dropshipping) sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "eCommerce (hors dropshipping)",
+    "activity": "Site de e-commerce alimentaire (hors frais et surgelés, hors dropshipping et sans fabrication)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "eCommerce (hors dropshipping)",
+    "activity": "Site de e-commerce de cosmétiques (hors dropshipping) sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "eCommerce (hors dropshipping)",
+    "activity": "Site de e-commerce de bijoux (hors dropshipping) sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "eCommerce (hors dropshipping)",
+    "activity": "Site de e-commerce de produits d'horlogerie domestique (hors dropshipping) sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "eCommerce (hors dropshipping)",
+    "activity": "Site de e-commerce d'accessoires vestimentaires (hors dropshipping) sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "eCommerce (hors dropshipping)",
+    "activity": "Site de e-commerce d'accessoires sportifs (hors dropshipping) sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "eCommerce (hors dropshipping)",
+    "activity": "Site de e-commerce de vélos et vélos à assistance électriques (hors dropshipping) sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "eCommerce (hors dropshipping)",
+    "activity": "Site de e-commerce d'accessoires automobiles (hors dropshipping) sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "eCommerce (hors dropshipping)",
+    "activity": "Site de e-commerce d'accessoires industriels (hors dropshipping) sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "eCommerce (hors dropshipping)",
+    "activity": "Site de e-commerce d'équipements et d'accessoires culinaires (hors dropshipping) sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "eCommerce (hors dropshipping)",
+    "activity": "Site de e-commerce de literie (hors dropshipping) sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "eCommerce (hors dropshipping)",
+    "activity": "Site de e-commerce de trotinnettes et trotinnettes électriques (hors dropshipping) sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "eCommerce (hors dropshipping)",
+    "activity": "Site de e-commerce d'électroménagers (hors dropshipping) sans fabrication"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de gros",
+    "activity": "Vente de photographies / accessoires photographiques (commerce de gros)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de gros",
+    "activity": "Vente de chaussures (commerce de gros)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de gros",
+    "activity": "Vente d’objets de décoration intérieure, luminaire et petit mobiliers (hors magasin de meuble et literie) (commerce de gros)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de gros",
+    "activity": "Vente d’objets publicitaires sans fabrication (commerce de gros)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de gros",
+    "activity": "Vente de matériels audio et vidéo en magasin spécialisé (commerce de gros)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de gros",
+    "activity": "Vente de matériels de télécommunication en magasin spécialisé (commerce de gros)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de gros",
+    "activity": "Vente d'ordinateurs, unités périphériques, et logiciels en magasin (commerce de gros)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de gros",
+    "activity": "Vente de vêtements et accessoires (commerce de gros)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de gros",
+    "activity": "Vente de Bricolage / outillage sans fabrication (commerce de gros)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de gros",
+    "activity": "Vente d'accessoires beauté et bien-être sans fabrication (commerce de gros)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de gros",
+    "activity": "Vente de café sans fabrication (commerce de gros)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de gros",
+    "activity": "Vente de peinture sans fabrication (commerce de gros)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de gros",
+    "activity": "Vente de jeux pour enfants sans fabrication (commerce de gros)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de gros",
+    "activity": "Vente de puériculture sans fabrication (commerce de gros)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de gros",
+    "activity": "Vente d'accessoires pour animaux sans fabrication (commerce de gros)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de gros",
+    "activity": "Vente de maroquinerie sans fabrication (commerce de gros)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de gros",
+    "activity": "Vente de jardinerie sans fabrication (commerce de gros)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de gros",
+    "activity": "Vente de cosmétiques sans fabrication (commerce de gros)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de gros",
+    "activity": "Vente de bijouterie sans fabrication (commerce de gros)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de gros",
+    "activity": "Vente d'accessoires vestimentaires sans fabrication (commerce de gros)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de gros",
+    "activity": "Vente d'accessoires sportifs sans fabrication (commerce de gros)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de gros",
+    "activity": "Vente de vélos et vélos à assistance électriques (commerce de gros)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de gros",
+    "activity": "Vente d'accessoires automobiles sans fabrication (commerce de gros)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de gros",
+    "activity": "Vente d'accessoires industriels sans fabrication (commerce de gros)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de gros",
+    "activity": "Vente d'accessoires culinaires sans fabrication (commerce de gros)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de gros",
+    "activity": "Vente de literie sans fabrication (commerce de gros)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de gros",
+    "activity": "Vente de trotinnettes et trotinnettes électriques sans fabrication (commerce de gros)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de gros",
+    "activity": "Vente d'électroménagers sans fabrication (commerce de gros)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Commerce de gros",
+    "activity": "Autre - Commerce de gros"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Construction / Batiment et travaux publics",
+    "activity": "Maître d'oeuvre"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Construction / Batiment et travaux publics",
+    "activity": "Assistant maître d'oeuvre"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Construction / Batiment et travaux publics",
+    "activity": "Maître d'ouvrage"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Construction / Batiment et travaux publics",
+    "activity": "Assistant maître d'ouvrage"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Construction / Batiment et travaux publics",
+    "activity": "Tous corps d'états"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Construction / Batiment et travaux publics",
+    "activity": "Chauffagiste, installation thermique de génie climatique (à l'exclusion du photovoltaïque)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Construction / Batiment et travaux publics",
+    "activity": "Air conditionné, intallation d'aérauliques (hors photovoltaïque)"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Construction / Batiment et travaux publics",
+    "activity": "Isolation"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Construction / Batiment et travaux publics",
+    "activity": "Couvreur"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Construction / Batiment et travaux publics",
+    "activity": "Ravalement de façades"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Construction / Batiment et travaux publics",
+    "activity": "Charpentes"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Construction / Batiment et travaux publics",
+    "activity": "Menuiseries extérieures"
+  },
+  {
+    "sector": "Artisan / Commerçant / e-Commerçant",
+    "category": "Construction / Batiment et travaux publics",
+    "activity": "Menuiseries intérieures"
+  },
+  {
+    "sector": "Professions réglementées",
+    "category": "Assurance",
+    "activity": "Agence de courtage en prêt / rachat en crédit (hors agence/établissement bancaire)"
+  },
+  {
+    "sector": "Professions réglementées",
+    "category": "Assurance",
+    "activity": "Intermédiaire en Assurance"
+  },
+  {
+    "sector": "Professions réglementées",
+    "category": "Assurance",
+    "activity": "Autre - Assurance"
+  },
+  {
+    "sector": "Professions réglementées",
+    "category": "Tourisme",
+    "activity": "Agence de voyages / Tour opérateur"
+  },
+  {
+    "sector": "Professions réglementées",
+    "category": "Tourisme",
+    "activity": "Autre - Tourisme"
+  },
+  {
+    "sector": "Professions réglementées",
+    "category": "Professions de l'immobilier",
+    "activity": "Agent immobilier (transaction immobilière et/ou de gestion locative)"
+  },
+  {
+    "sector": "Professions réglementées",
+    "category": "Professions de l'immobilier",
+    "activity": "Agent commercial de l'Immobilier"
+  },
+  {
+    "sector": "Professions réglementées",
+    "category": "Professions de l'immobilier",
+    "activity": "Autre - Professions de l'immobilier"
+  },
+  {
+    "sector": "Professions réglementées",
+    "category": "Professionnel du sport",
+    "activity": "Agent Sportif"
+  },
+  {
+    "sector": "Professions réglementées",
+    "category": "Professionnel du sport",
+    "activity": "Autre - Professionnel du sport"
+  },
+  {
+    "sector": "Professions réglementées",
+    "category": "Service financier",
+    "activity": "Conseil en investissement Financier (CIF) y compris le Conseil en gestion de Patrimoine (CGP)"
+  },
+  {
+    "sector": "Professions réglementées",
+    "category": "Service financier",
+    "activity": "Démarcheur Financier"
+  },
+  {
+    "sector": "Professions réglementées",
+    "category": "Service financier",
+    "activity": "Intermédiaire en Opérations de Banque et en services de paiement"
+  },
+  {
+    "sector": "Professions réglementées",
+    "category": "Professions du droit",
+    "activity": "Avocat"
+  },
+  {
+    "sector": "Professions réglementées",
+    "category": "Professions du droit",
+    "activity": "Notaire"
+  },
+  {
+    "sector": "Professions réglementées",
+    "category": "Professions du droit",
+    "activity": "Huissier de justice"
+  },
+  {
+    "sector": "Professions réglementées",
+    "category": "Professions de la santé",
+    "activity": "Médecin généraliste"
+  },
+  {
+    "sector": "Professions réglementées",
+    "category": "Professions de la santé",
+    "activity": "Chirurgien"
+  },
+  {
+    "sector": "Professions réglementées",
+    "category": "Professions de la santé",
+    "activity": "Vétérinaire"
+  },
+  {
+    "sector": "Professions réglementées",
+    "category": "Professions de la santé",
+    "activity": "Dentiste"
+  },
+  {
+    "sector": "Sécurité",
+    "category": "Professionnel de la sécurité",
+    "activity": "Gardiennage, surveillance, filtrage (y compris agent cynophile) - hors télésurveillance"
+  },
+  {
+    "sector": "Sécurité",
+    "category": "Professionnel de la sécurité",
+    "activity": "Intervention sur site en cas de déclenchement d’alarme intrusion"
+  },
+  {
+    "sector": "Sécurité",
+    "category": "Professionnel de la sécurité",
+    "activity": "Sécurité incendie : agent de sécurité qualifié / confirmé / chef de poste"
+  },
+  {
+    "sector": "Sécurité",
+    "category": "Professionnel de la sécurité",
+    "activity": "Installateurs d’alarmes sociales"
+  },
+  {
+    "sector": "Sécurité",
+    "category": "Professionnel de la sécurité",
+    "activity": "Vente et installation de détecteurs d’incendie, fumée, gaz et de systèmes légers de lutte contre l’incendie ou intoxication de type Extincteurs et RIA (Robinets d’Incendie Armé)"
+  },
+  {
+    "sector": "Sécurité",
+    "category": "Professionnel de la sécurité",
+    "activity": "Formation aux activitys privées de sécurité soumises à agrément CNAPS"
+  },
+  {
+    "sector": "Sécurité",
+    "category": "Professionnel de la sécurité",
+    "activity": "activitys annexes de conseil et formation en matière de sécurité - hors prescription technique assimilée à de l'ingénierie/BET/maîtrise d'œuvre & AMOA sur travaux de bâtiment & génie civil"
+  },
+  {
+    "sector": "Sécurité",
+    "category": "Professionnel de la sécurité",
+    "activity": "Vente, installation et maintenance de systèmes de détection et d’alarme anti-intrusion, de systèmes et matériels de contrôle d’accès, vidéo-surveillance, télésurveillance"
+  },
+  {
+    "sector": "Sécurité",
+    "category": "Professionnel de la sécurité",
+    "activity": "Télésurveillance"
+  },
+  {
+    "sector": "Tourisme",
+    "category": "Professionnel du tourisme",
+    "activity": "Billetterie"
+  },
+  {
+    "sector": "Tourisme",
+    "category": "Professionnel du tourisme",
+    "activity": "Vente de séjours ou voyages organisés par un Tour-Operator"
+  },
+  {
+    "sector": "Tourisme",
+    "category": "Professionnel du tourisme",
+    "activity": "Tourisme d'accueil"
+  },
+  {
+    "sector": "Tourisme",
+    "category": "Professionnel du tourisme",
+    "activity": "Vente de forfaits dynamiques"
+  },
+  {
+    "sector": "Tourisme",
+    "category": "Professionnel du tourisme",
+    "activity": "Organisation de séjours ou de voyages"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Communication corporate et publicitaire",
+    "activity": "Publicité"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Communication corporate et publicitaire",
+    "activity": "Communication institutionnelle, financière"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Communication corporate et publicitaire",
+    "activity": "Social media, community management"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Communication corporate et publicitaire",
+    "activity": "Relations publiques, Gestion réputation / e-réputation"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Communication corporate et publicitaire",
+    "activity": "Influenceur, lobbying"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Communication corporate et publicitaire",
+    "activity": "Communication et gestion de crise"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Communication corporate et publicitaire",
+    "activity": "Réalisation, production de films institutionnels et/ou publicitaires"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Communication corporate et publicitaire",
+    "activity": "Conception et création de contenu éditorial tous supports (dont content management)"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Communication corporate et publicitaire",
+    "activity": "Impression supports publicitaire ou corporate"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Communication corporate et publicitaire",
+    "activity": "Régie publicitaire"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Communication corporate et publicitaire",
+    "activity": "Achat d'espaces publicitaires dans médias traditionnels et nouveaux médias (dont display)"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Communication corporate et publicitaire",
+    "activity": "Media planning, web planning"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Communication corporate et publicitaire",
+    "activity": "Direction artistique, conception et création graphique 360°"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Communication corporate et publicitaire",
+    "activity": "Conception, création de sites web et applications mobiles (design UX/UI, développement)"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Communication corporate et publicitaire",
+    "activity": "Communication interne/RH, marque employeur"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Connaissance client analytics",
+    "activity": "CRM analytics, base de données client"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Connaissance client analytics",
+    "activity": "Analyse comportementale"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Connaissance client analytics",
+    "activity": "Datamining, datascience"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Connaissance client analytics",
+    "activity": "Etude de marché, sondages"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Connaissance client analytics",
+    "activity": "Tracking, performance, metrics"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Connaissance client analytics",
+    "activity": "Traffic Management"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Connaissance client analytics",
+    "activity": "Veille, benchmark, social listening"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Conseil et stratégie",
+    "activity": "Conseil en publicité"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Conseil et stratégie",
+    "activity": "Conseil en stratégie digitale"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Conseil et stratégie",
+    "activity": "Conseil en marketing"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Conseil et stratégie",
+    "activity": "Coaching, media training"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Conseil et stratégie",
+    "activity": "Conseil en branding (notoriété et image de marque)"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Conseil et stratégie",
+    "activity": "Conseil en communication, RP, social média"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Conseil et stratégie",
+    "activity": "Planning stratégique"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Conseil et stratégie",
+    "activity": "Autres services : Informatique et Conseil (en stratégie, organisation, RSE...) dans la limite de 30% du chiffre d’affaires déclaré par l’assuré"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Événementiel pour le compte de tiers",
+    "activity": "Conception et organisation d'événements"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Événementiel pour le compte de tiers",
+    "activity": "Scénographie"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Événementiel pour le compte de tiers",
+    "activity": "Autre - Événementiel pour le compte de tiers"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Marketing opérationnel",
+    "activity": "Marketing direct (phoning, (e)mailing, jeux concours, street marketing,...)"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Marketing opérationnel",
+    "activity": "Génération de leads"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Marketing opérationnel",
+    "activity": "Affiliation"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Marketing opérationnel",
+    "activity": "Search marketing, référencement (SEO, SEA, SMO)"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Marketing opérationnel",
+    "activity": "m-Marketing (dont campagnes SMS)"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Marketing opérationnel",
+    "activity": "Conception de goodies, enseignes ou produits dérivés (fabrication et installation sous-traitées)"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Marketing opérationnel",
+    "activity": "Promotion et animation des ventes"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Marketing opérationnel",
+    "activity": "Monétisation de contenu"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Marketing opérationnel",
+    "activity": "Reciblage publicitaire (re-targeting)"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Marketing opérationnel",
+    "activity": "Impression publipostage"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Marketing opérationnel",
+    "activity": "Packaging (hors design industriel)"
+  },
+  {
+    "sector": "Marketing",
+    "category": "Marketing opérationnel",
+    "activity": "Merchandising, publicité sur lieu de vente"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Transport",
+    "activity": "Transport terrestre"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Transport",
+    "activity": "Aide à la mobilité et transports"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Transport",
+    "activity": "Conduite de véhicule personnel des seniors et des personnes handicapées"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Transport",
+    "activity": "Convoyage de véhicules légers"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Accompagnement personnel / Thérapie",
+    "activity": "Coach en développement personnel / Conseil en gestion de stress"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Accompagnement personnel / Thérapie",
+    "activity": "Conseil en orientation / aide psychosociale"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Accompagnement personnel / Thérapie",
+    "activity": "Conseiller conjugal"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Accompagnement personnel / Thérapie",
+    "activity": "Médiation familiale (hors médiation judiciaire / pénale)"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Accompagnement personnel / Thérapie",
+    "activity": "Luminothérapeute / Aromathérapeute / Musicothérapeute"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Accompagnement personnel / Thérapie",
+    "activity": "Psychologue"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Accompagnement personnel / Thérapie",
+    "activity": "Psychothérapeute"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Accompagnement personnel / Thérapie",
+    "activity": "Thérapeute par la parole"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Accompagnement personnel / Thérapie",
+    "activity": "Hypnothérapeute"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Accompagnement personnel / Thérapie",
+    "activity": "Autre - Accompagnement personnel / Thérapie"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Service à la personne - Loi Borloo",
+    "activity": "Accompagnement des personnes agées, dépendantes, handicapées en dehors du domicile"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Service à la personne - Loi Borloo",
+    "activity": "Aide personnelle à domicile pour les personnes en besoin d'assistance temporaire - hors soins médicaux"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Service à la personne - Loi Borloo",
+    "activity": "Aide à l’insertion sociale des personnes agées, handicapées ou ayant des pathologies chroniques"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Service à la personne - Loi Borloo",
+    "activity": "Assistance dans les actes de la vie quotidienne des personnes âgées, handicapées ou ayant des pathologies chroniques - hors soins médicaux"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Service à la personne - Loi Borloo",
+    "activity": "Assistance administrative à domicile"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Service à la personne - Loi Borloo",
+    "activity": "Assistance informatique à domicile"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Service à la personne - Loi Borloo",
+    "activity": "Accompagnement des enfants de moins de 3 ans dans leur déplacement en dehors du domicile"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Service à la personne - Loi Borloo",
+    "activity": "Accompagnement des enfants de plus de 3 ans dans leur déplacement en dehors du domicile"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Service à la personne - Loi Borloo",
+    "activity": "Garde d'enfants de moins de 3 ans à domicile"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Service à la personne - Loi Borloo",
+    "activity": "Garde d'enfants de plus de 3 ans à domicile"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Service à la personne - Loi Borloo",
+    "activity": "Collecte et livraison de linge à domicile"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Service à la personne - Loi Borloo",
+    "activity": "Conduite du véhicule personnel des seniors et personnes handicapées"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Service à la personne - Loi Borloo",
+    "activity": "Coordination, délivrance et suivi de services à la personnes (mise en relation avec un prestataire et suivi de la prestation)"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Service à la personne - Loi Borloo",
+    "activity": "Interprète langue des signes, technicien de l’écrit, codeur en langue parlé complété"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Service à la personne - Loi Borloo",
+    "activity": "Soins esthétiques à domicile pour les personnes dépendantes"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Service à la personne - Loi Borloo",
+    "activity": "Soins et promenades d’animaux de compagnie pour les personnes dépendantes"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Service à la personne - Loi Borloo",
+    "activity": "Soutien scolaire ou cours à domicile"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Service à la personne - Loi Borloo",
+    "activity": "Téléassistance / Visioassistance"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Service à la personne - Loi Borloo",
+    "activity": "Aide à l’insertion sociale des personnes agées, handicapées ou ayant des pathologies chroniques"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Service à la personne - Loi Borloo",
+    "activity": "Entretien de la maison et travaux ménagers"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Service à la personne - Loi Borloo",
+    "activity": "Maintenance, entretien et vigilance temporaires, à domicile, de résidences principales et secondaires"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Service à la personne - Loi Borloo",
+    "activity": "Travaux de petit bricolage dits « homme toutes mains »"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Service à la personne - Loi Borloo",
+    "activity": "Petits travaux de jardinage"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Service à la personne - Loi Borloo",
+    "activity": "Préparation de repas à domicile"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Service à la personne - Loi Borloo",
+    "activity": "Livraison de courses à domicile"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Service à la personne - Loi Borloo",
+    "activity": "Livraison de repas à domicile"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Service à la personne - Loi Borloo",
+    "activity": "Archivage (photocopie, préparation de documents, scanning, saisie informatique, archivage de documents et gestion documentaire pour le compte de tiers)"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Gestion administrative",
+    "activity": "Conciergerie / Services de conciergerie (hors réservation de séjours / voyages pour le compte de tiers)"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Gestion administrative",
+    "activity": "Ecrivain public"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Gestion administrative",
+    "activity": "Gestion de standard (Accueil, permanence téléphonique, gestion du courrier, démarches administratives, classements de documents etc...)"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Gestion administrative",
+    "activity": "Gestion des achats (Recherche et gestion des fournisseurs)"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Gestion administrative",
+    "activity": "Interprète"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Gestion administrative",
+    "activity": "Mise à disposition d'agents et hôtesses d'accueil - hors prestation de sécurité privée"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Gestion administrative",
+    "activity": "Mise à disposition de bureaux/espaces de travail courte et moyenne durée"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Gestion administrative",
+    "activity": "Recouvrement amiable et judiciaire de créance pour le compte de tiers"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Gestion administrative",
+    "activity": "Centre d'affaires (Secrétariat, saisie de données, domiciliation commerciale de sociétés ; gestion du courrier arrivant à l'adresse de domiciliation ; externalisation de tâches administratives, permanence téléphonique)"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Gestion administrative",
+    "activity": "Centre d'appel hors appels d’urgence"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Gestion administrative",
+    "activity": "Téléprospection"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Gestion administrative",
+    "activity": "Traducteur (hors notices techniques et manuels utilisateurs)"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Garde d'enfants et animaux",
+    "activity": "Crèche"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Garde d'enfants et animaux",
+    "activity": "Garde d'animaux et Pet-sitting (hors chenils)"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Garde d'enfants et animaux",
+    "activity": "Autre - Garde d'enfants"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Entretien / Nettoyage",
+    "activity": "Nettoyage courant de bureaux, commerces, habitations et établissements sportifs"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Entretien / Nettoyage",
+    "activity": "Entretien des bureaux et/ou espaces verts (sans technique d'élagage de plus de 3 mètres)"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Entretien / Nettoyage",
+    "activity": "Jardinage hors élagage/abattage d’arbres et/ou travaux de terrassement"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Formation",
+    "activity": "Conseiller en éducation / Éducateur"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Formation",
+    "activity": "Correcteur de textes / examens"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Formation",
+    "activity": "Formateur / Organisme de formation (hors formation aux activitys privées de sécurité soumises à agrément du CNAPS et formation aux travaux en hauteur / sur corde)"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Formation",
+    "activity": "Établissement d'enseignement supérieur / de formation continue (hors formation aux activitys privées de sécurité soumises à agrément du CNAPS et formation aux travaux en hauteur / sur corde)"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Formation",
+    "activity": "Enseignant (hors enseignant de l’éducation nationale)"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Formation",
+    "activity": "Formateur / Organisme de formation / Soutien scolaire (locaux avec salles de formation - hors formation aux activitys privées de sécurité soumises aux agrément du CNAPS et formation aux travaux en hauteur / sur corde)"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Formation",
+    "activity": "Comportementalisme chien et chat / Formation au dressage et à la communication avec l'animal"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Formation",
+    "activity": "Autre - Formation - Service à la personne"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Dépannage / Assistance",
+    "activity": "Téléassistance / Visioassistance"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Dépannage / Assistance",
+    "activity": "Bricolage ne nécessitant pas de qualification professionnelle et pouvant être réalisé en 2h maximum (hors travaux de construction, réparation, intervention sur des équipements de gaz, d'eau, d'électricité)"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Dépannage / Assistance",
+    "activity": "Installation d'alarmes et/ou de matériel de télé-sécurité et télésurveillance"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Dépannage / Assistance",
+    "activity": "Maintenance, entretien et vigilance temporaires, à domicile, de résidence principale et secondaire"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Dépannage / Assistance",
+    "activity": "Installation, maintenance de matériel informatique / de télécommunication - Assistance information / télécommunication"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Autres services aux particuliers, entreprise et collectivités",
+    "activity": "Gardien de maisons / Home sitting"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Autres services aux particuliers, entreprise et collectivités",
+    "activity": "Agence matrimoniale"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Autres services aux particuliers, entreprise et collectivités",
+    "activity": "Assistant social"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Autres services aux particuliers, entreprise et collectivités",
+    "activity": "Agent commercial immobilier (TRANSACTIONS SUR IMMEUBLES ET / OU FONDS DE COMMERCE)"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Autres services aux particuliers, entreprise et collectivités",
+    "activity": "Assistance à l’autonomie, aux personnes âgées, handicapées ou vulnérables - hors prestations réalisées dans le cadre de la loi Borloo et/ou hors prestation médicale/paramédicale"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Autres services aux particuliers, entreprise et collectivités",
+    "activity": "Décorateur d'intérieur (hors architecte et domaine de la construction)"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Autres services aux particuliers, entreprise et collectivités",
+    "activity": "Services aux particuliers hors règlementation Borloo : courses, travaux administratifs"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Autres services aux particuliers, entreprise et collectivités",
+    "activity": "Conseil en relocation"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Autres services aux particuliers, entreprise et collectivités",
+    "activity": "Réalisation d'audits de certifications portant sur les méthodes d'organisation et de process des entreprises"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Autres services aux particuliers, entreprise et collectivités",
+    "activity": "Détective privé / Agent de recherches privé"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Autres services aux particuliers, entreprise et collectivités",
+    "activity": "Photographe"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Autres services aux particuliers, entreprise et collectivités",
+    "activity": "Conseil en immigration - hors conseils juridiques"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Livraison",
+    "activity": "Coursier"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Livraison",
+    "activity": "Autre - Livraison"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Restauration",
+    "activity": "Préparation de repas / commissions"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Restauration",
+    "activity": "Restaurant"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Restauration",
+    "activity": "Restauration rapide"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Restauration",
+    "activity": "Café, brasserie"
+  },
+  {
+    "sector": "Métiers du Service",
+    "category": "Restauration",
+    "activity": "Autre - Restauration"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Evénementiel",
+    "activity": "Scénographie - Evénementiel"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Evénementiel",
+    "activity": "Conférencier"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Evénementiel",
+    "activity": "Organisation de mariages et d'événements familiaux / Wedding planner - hors activitys de réservation de voyages ou séjours pour le compte de tiers"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Evénementiel",
+    "activity": "Animateur d'évènements ou d'actions promotionnelles / Speaker"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Audiovisuel",
+    "activity": "Adaptateur audiovisuel"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Audiovisuel",
+    "activity": "Studio et autres activitys photographiques - Audiovisuel"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Audiovisuel",
+    "activity": "Assistant opérateur audiovisuel / cinéma / spectacles vivants"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Audiovisuel",
+    "activity": "Cadreur"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Audiovisuel",
+    "activity": "Caméraman"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Audiovisuel",
+    "activity": "Chorégraphe"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Audiovisuel",
+    "activity": "Directeur artistique dans les domaines du spectacle vivant/ audiovisuel/ édition"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Audiovisuel",
+    "activity": "Directeur de production audiovisuelle (hors cinéma et télévision)"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Audiovisuel",
+    "activity": "Documentaliste audiovisuel"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Audiovisuel",
+    "activity": "Eclairagiste audiovisuel"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Audiovisuel",
+    "activity": "Ingénieur du son et/ou Mixeur"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Audiovisuel",
+    "activity": "Monteur / Studio de montage video / audiovisuel"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Audiovisuel",
+    "activity": "Producteur de films publicitaires et clips vidéo"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Audiovisuel",
+    "activity": "Régisseur son"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Audiovisuel",
+    "activity": "Régisseur pour le compte de productions audiovisuelles et évènementielles hors oeuvres destinées au cinéma / fictions et émissions télé en direct"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Audiovisuel",
+    "activity": "Sonorisateur"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Audiovisuel",
+    "activity": "Technicien son et lumière"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Audiovisuel",
+    "activity": "Traducteur audiovisuel"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Audiovisuel",
+    "activity": "Assistant de post-production audiovisuelle (hors cinéma et télévision)"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Audiovisuel",
+    "activity": "Chargé de post-production audiovisuelle (hors cinéma et télévision)"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Audiovisuel",
+    "activity": "Concepteur d'effets spéciaux"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Audiovisuel",
+    "activity": "Compositeur de musiques de films"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Audiovisuel",
+    "activity": "Directeur de post-production audiovisuelle (hors cinéma et télévision)"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Audiovisuel",
+    "activity": "Etalonneur"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Audiovisuel",
+    "activity": "Monteur son"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Audiovisuel",
+    "activity": "Projectionniste"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Audiovisuel",
+    "activity": "Studio d'enregistrement"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Audiovisuel",
+    "activity": "Superviseur d'effets spéciaux"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Audiovisuel",
+    "activity": "Truquiste"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Audiovisuel",
+    "activity": "Bruiteur"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Spectacle vivant",
+    "activity": "Bookeur de spectacles vivants"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Spectacle vivant",
+    "activity": "Chef opérateur audiovisuel / cinéma / de spectacles vivants"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Spectacle vivant",
+    "activity": "Décorateur de film, accessoiriste"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Spectacle vivant",
+    "activity": "Décorateur d'espace scénique"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Spectacle vivant",
+    "activity": "Location de chapiteaux et/ou tribunes"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Spectacle vivant",
+    "activity": "Location de matériel son et image à destination des professionnels du spectacle"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Spectacle vivant",
+    "activity": "Maquilleur artistes et comédiens"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Spectacle vivant",
+    "activity": "Metteur en scène / Réalisateur"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Spectacle vivant",
+    "activity": "Organisateur de spectacles vivants"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Spectacle vivant",
+    "activity": "Photographe / Vidéaste évènementiel"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Spectacle vivant",
+    "activity": "Producteur de documentaires / magazines / reportages dans le domaine de la culture et des loisirs"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Spectacle vivant",
+    "activity": "Producteur de spectacles vivants"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Spectacle vivant",
+    "activity": "Scripte"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Spectacle vivant",
+    "activity": "Scénariste"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Spectacle vivant",
+    "activity": "Tourneur de spectacles vivants"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Spectacle vivant",
+    "activity": "Diffuseur de spectacles vivants"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Spectacle vivant",
+    "activity": "Sous-titrage / Doublage de films et/ou sur-titrage de spectacles vivants (hors films à caractère pornographique)"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Culture et divertissement",
+    "activity": "Disc-Jockey"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Culture et divertissement",
+    "activity": "Acteur"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Culture et divertissement",
+    "activity": "Animateur du patrimoine"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Culture et divertissement",
+    "activity": "Arts graphiques avec ou sans conception de logo/affiches/web"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Culture et divertissement",
+    "activity": "Guide-conférencier / Guide touristique"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Culture et divertissement",
+    "activity": "Conseiller culturel et/ou en divertissement"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Culture et divertissement",
+    "activity": "Auteur"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Culture et divertissement",
+    "activity": "Chargé d'études documentaires"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Culture et divertissement",
+    "activity": "Chef d'orchestre"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Culture et divertissement",
+    "activity": "Consultant en ingénierie touristique et culturelle"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Culture et divertissement",
+    "activity": "Créateur d'image : papier / film / vidéo / numérique (hors caricatures et images provocatrices)"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Culture et divertissement",
+    "activity": "Danseur"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Culture et divertissement",
+    "activity": "Dessinateur / Illustrateur (hors caricatures et dessins provocateurs)"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Culture et divertissement",
+    "activity": "Dessinateur publicitaire (hors conception de produit et design industriel)"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Culture et divertissement",
+    "activity": "Design d'exposition / scenographie - hors fabrication et installation non sous-traitée"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Culture et divertissement",
+    "activity": "Ecrivain"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Culture et divertissement",
+    "activity": "Graphiste web"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Culture et divertissement",
+    "activity": "Mannequin / Modèle"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Culture et divertissement",
+    "activity": "Lecteur-Correcteur"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Culture et divertissement",
+    "activity": "Médiateur culturel"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Culture et divertissement",
+    "activity": "Muséographe"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Culture et divertissement",
+    "activity": "Musicien solo ou en groupe constitué, public ou privé subventionné ou non"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Culture et divertissement",
+    "activity": "Professeur de danse"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Culture et divertissement",
+    "activity": "Professeur de musique"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Culture et divertissement",
+    "activity": "Professeur de théâtre"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Culture et divertissement",
+    "activity": "Secrétaire de documentation"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Culture et divertissement",
+    "activity": "Agence de mannequins"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Agence de presse spécialisée"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Attaché de presse"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Journaliste (hors reporter d'image) / Pigiste"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Edition et publication de journaux d'information locaux (y.c. en ligne)"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Edition et publication de journaux d'information régionnaux (y.c. en ligne)"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Edition et publication de magazines féminins (y.c. en ligne)"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Edition et publication de magazines / livres professionnels (y.c. en ligne) - hors domaine médical, financier et scientifique"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Edition et publication de magazines / livres spécialisés loisirs type sports, culture, art, décoration, cuisine, voyages, etc...  (y.c. en ligne)"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Edition et publication de fictions littéraires (y.c. en ligne)"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Edition et publication de magazines / revues dans le domaine médical (y.c. en ligne)"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Edition et publication de magazines / revues dans le domaine financier (y.c. en ligne)"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Edition et publication de magazines / revues dans le domaine scientifique (y.c. en ligne)"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Radio / Web radio d'informations et actualités locales"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Radio / Web radio d'informations et actualités régionales"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Radio / Web radio musicale"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Radio / Web radio culturelle"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Radio / Web radio de divertissement (jeux, humour, sport, etc...)"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Rédaction d’articles de presse pour le compte de journaux d’information locale (y.c en ligne)"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Rédaction d’articles de presse pour le compte de journaux d’information régionale (y.c en ligne)"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Rédaction de contenus pour le compte de magazines féminins (y.c en ligne) – hors magazine et/ou site people"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Rédaction de contenus pour le compte de magazines / livres professionnels (y.c. en ligne) – hors domaine médical, financier et scientifique"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Rédaction de contenus pour le compte de magazines / livres spécialisés loisirs type sports, culture, art, décoration, cuisine, voyages, etc... (y.c. en ligne)"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Rédaction de contenus pour le compte de magazines / revues dans le domaine médical (y.c. en ligne)"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Rédaction de contenus pour le compte de magazines / revues dans le domaine financier (y.c. en ligne)"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Rédaction de contenus pour le compte de magazines / revues dans le domaine scientifique (y.c. en ligne)"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Télé / Web télé d'informations et actualités locales"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Télé / Web télé d'informations et actualités régionales"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Télé / Web télé musicale"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Télé / Web télé culturelle"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Télé / Web télé de divertissement (jeux, humour, sport, etc...)"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "activitys annexes en matière de marketing et/ou de communciation"
+  },
+  {
+    "sector": "Médias et Industries culturelles",
+    "category": "Médias et Journalisme",
+    "activity": "Blogueur"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Médical / Paramédical",
+    "activity": "Cabinet médical et paramédical"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Médical / Paramédical",
+    "activity": "Acuponcture (Aculifting, luxoponcture) limité aux seuls médecins ou kinésithérapeutes"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Médical / Paramédical",
+    "activity": "Thérapeute par la parole"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Médical / Paramédical",
+    "activity": "Hypnose Ericksonienne"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Médical / Paramédical",
+    "activity": "Cardiologue"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Médical / Paramédical",
+    "activity": "Chirurgien"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Médical / Paramédical",
+    "activity": "Masseur kinésithérapeute"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Médical / Paramédical",
+    "activity": "Médecin généraliste"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Médical / Paramédical",
+    "activity": "Ophtalmologue"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Médical / Paramédical",
+    "activity": "Pédiatre"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Médical / Paramédical",
+    "activity": "Psychiatre"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Médical / Paramédical",
+    "activity": "Radiologue"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Médical / Paramédical",
+    "activity": "Rhumatologue"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Médical / Paramédical",
+    "activity": "Vétérinaire"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Médical / Paramédical",
+    "activity": "Dentiste"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Médical / Paramédical",
+    "activity": "Infirmier"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Médical / Paramédical",
+    "activity": "Nutritioniste"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Médical / Paramédical",
+    "activity": "Orthophoniste"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Médical / Paramédical",
+    "activity": "Ostéopathe"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Médical / Paramédical",
+    "activity": "Pédicure"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Médical / Paramédical",
+    "activity": "Pharmacien"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Médical / Paramédical",
+    "activity": "Podologue"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Médical / Paramédical",
+    "activity": "Pédicure-podologue"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Médical / Paramédical",
+    "activity": "Opticiens"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Médical / Paramédical",
+    "activity": "Radiologue"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Médical / Paramédical",
+    "activity": "Répartiteurs"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Médical / Paramédical",
+    "activity": "Autre - Médical / Paramédical"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Massage bien être / Modelage"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Conseil en image / relooking"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Réflexologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Art thérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Sophrologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Relaxologue"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Yoga"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Salle de sport hors sauna, spa, et bar"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Hypnothérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Autre - Bien être"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Access Bars"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Access Consciousness"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Access Energy Transformation"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Access Facelift"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Access Processus Corporels"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Accompagnement Biographique"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Accompagnement psycho-émotionnel"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Accompagnement sensoriel"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Accupressure"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Actualisation par les Mouvements Oculaires : EMA-AMO"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Aculifting, pratiqué uniquement par un docteur en médecine ou un kinésithérapeuthe"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Acupression"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Acupuncture,  pratiqué uniquement par un docteur en médecine ou un kinésithérapeuthe"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Aide et/ou soutien psychologique (mémoire cellulaire, interprétation des rêves)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Algothérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Analyse de la posture (posturologie)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Analyse du corps"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Analyse Psycho-Organique"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Analyse transactionnelle"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Angel Therapy"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Apithérapie (à l’exclusion de toute utilisation de venin)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Approche Centrée sur la Personne"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Archives Akashiques"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Argilothérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Ariti Gymnastique"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Aromachologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Aromathérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Aromathérapie (Olphactothérapie)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Aromatologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Arthérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Arts énergétiques"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Art-thérapie (notamment musicothérapie, rigolothérapie, graphologie, peinture, danse…)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Astrologie (y compris Astrologie chinoise)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Atrapuncture"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Audio Psycho Phonologue"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Aura-Soma© (Thérapie)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Auriculothérapie, pratiqué uniquement par un docteur en médecine, une sage-femme ou un kinésithérapeuthe"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Auxiliothérapie, à l'exclusion de toute pescription ou vente de produits, compléments alimentaires"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Ayurveda"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Ayurveda massage"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Bemer (Thérapie), à l'exclusion de toute pescription ou vente de produits, compléments alimentaires"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Bio énergie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Bio Psycho Synergie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Bioanalogie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Biodanza"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Bioénergie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Biokinergie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Biokinésie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Biorésonance"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Biorythme"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Biosenetics, à l'exclusion de toute pescription ou vente de produits, compléments alimentaires"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Body conditioning"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Body Talk"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Body-Mind Centering®"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Bowen (Méthode)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Brain gym® (gymnastique cérébrale)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Brennan (Méthode)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Bromatologie, à l'exclusion de toute pescription ou vente de produits, compléments alimentaires"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Buteyko (Méthode)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Bye Bye Allergies - BBA"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Callanétic (Méthode)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Camilli® (Massage sensitive de Claude)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Caractérologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Cartomancie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Chakra"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Channeling"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Chant avec bébé"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Chant Prénatal"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Chat-thérapie / Ronron-thérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Chi Nei Tsang"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Chiromancie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Chromothérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Chrononutrition, à l'exclusion de toute pescription ou vente de produits, compléments alimentaires"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Clair ressenti"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Clown relationnel"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Clown-praticien"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Coach de vie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Coach en nutrition, à l'exclusion de toute pescription ou vente de produits, compléments alimentaires"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Coach Lover"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Coach sportif / fitness sans exploitation d'établissement/équipements sportifs - hors sports mécaniques, sports extrêmes, équitation"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Coaching"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Coaching Développement personnel"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Coaching sommeil"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Cohérence cardiaque"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Coiffeur"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Communication facilitée"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Communication Non Violente (CNV)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Conférencier sur les métiers du Bien Etre (hors organisation d’évènement, d’atelier ou de visite)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Conjugothérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Conscience corporelle dynamique"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Conseil en Feng-Shui / Home staging - hors vente de mobilier / décoration"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Conseil en nutrition et alimentation - hors Diététicien / prescription médicale et vente de produits"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Conseil en nutrition et alimentation / Diététicien - hors prescription médicale et vente de produits"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Conseil en plantes Médicinales et aromatiques, à l'exclusion de toute pescription ou vente de produits, compléments alimentaires"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Conseil spirituel"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Conseiller conjugal et familial"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Conseiller en fleurs de Bach"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Constellations d’abondance"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Consultant en éducation et relations humaines"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Consultant en gestion de poids, à l'exclusion de toute pescription ou vente de produits, compléments alimentaires"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Cosméceutique"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Coué (Méthode)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Coupeur de feu"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Cours de médiation tibétaine"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Crénothérapie, hors  hydrothérapie du colon"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Cristallothérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Danse biodynamique"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Danse Thérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Danse Thérapie en Expression sensitive"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Dao Yin Fa"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Décodage Biologique"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Détoxination, à l'exclusion de toute pescription ou vente de produits, compléments alimentaires"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Dharma guidance"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Dialogueur intérieur"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Digiponcture"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Digitopression"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Discours et thérapie de langue"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "DMOKA® (Déprogrammation par les Mouvements Oculaires)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Do In"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Dong Fa"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Drainage Lymphatique manuel (méthode du Dr Vodder)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Drainolymphologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Dry Needling, pratiqué uniquement par un docteur en médecine, une sage-femme ou un kinésithérapeuthe"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "E.M.D.R. – reprogrammation et désensibilisation par le mouvement de l’oeil"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Education kinesthésique"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Ehrenfried (Méthode)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "EIBE (Méthode) pratiqué uniquement par un docteur en médecine, une sage-femme ou un kinésithérapeuthe pour l'auriculothérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Electro-stimulation"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Electrothérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Elixirs Floraux"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Elixirs floraux, fleurs de Bach"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Emmett (Thérapie)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Emotional Freedom Technic (EFT)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Emotional Freedom Technic (Technique de Libération Emotionnelle)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Energéticien"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Energétique chinoise hors médecine traditionnel chinoise : prescription et vente de produit / si acuponcture limité aux seuls médecins ou kinésithérapeutes"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Epigénétique par biorésonance"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Equilibrage corporel, hors atlas profilax et hors pescription ou vente de produits, compléments alimentaires"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "ETCN Entre Terre et Ciel Nous"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Ethologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Ethologie Equine"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Ethiopathe"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Etiopsychologie®"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Etioscan générateurs d'organe"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Eurythmie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Eutonie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Expression sensitive"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Falun gong"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Fangologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Fangothérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Fasciabioénergie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Fasciapulsologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Fasciathérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Fasciathérapie©"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Feldenkrais (Méthode)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Feng Shui"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Filmothérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Florithérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Fluidie Therapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Focusing ACP"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Formation aux activitys du bien-être"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Fu jing tao"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Gélothérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Gemmothérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Géobiologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Géobiophysique"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Gérontopraticien psychocorporel"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Gestalt-thérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Gommage du corps"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Graphothérapeute"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Guérisseur"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Guidance Quantique"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Gundhra"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Gym Bien-être"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Gymnastique Holistique"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Halothérapie (Thérapie saline)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Harmonisation globale"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Harmonisation Lymphatique"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Harmonisation vitale bioénergétique, hors ostéopathie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Herboriste"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Hijama (ventousothérapie) sec"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Ho’oponopono"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Holéoénergie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Hortithérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Hydrothérapie (hors hydrothérapie du colon)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Hygiène neuropsychique, à l'exclusion de toute pescription ou vente de produits, compléments alimentaires"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Hypnose"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Hypnose Intégrative"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Hypnose Sajece"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "I.M.O Intégration des mouvements occulaires"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Imago Thérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Indologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Intégration Motrice Primordiale (sauf lorsque cette activity est exercée sur des enfants de moins de un an)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Intégration posturale"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Intégration structurale"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Internal Family Systems"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Interprétation des rêves, travail sur le rêve"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Iridologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Iyashi Dôme (Sauna japonais)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Janzu"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Jeûne thérapeutique"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Jin Shin Jyutsu"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Katsugen Undo"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Kobido"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "LaHoChi"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Land Art Thérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Le processus Hoffman"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Lecture de mémoires Akashiques"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Lectures de visage"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Libération des cuirasses"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Lithomancie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Lithothérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Logosynthèse"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Lomilomi"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Luminothérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Lunologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Luxoponcture"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Luxothérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Mace Energy method"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Magnétisme"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Magnétisme / Biomagnétisme"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Magnétisme radionique"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Magnétothérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Maïeusthésie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Makaton"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Manupuncture  pratiqué uniquement par un docteur en médecine ou un kinésithérapeuthe"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Map thérapies"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Marche Afghane"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Marmathérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Marma-Veda"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Masques corporels"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Massage Abhyanga"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Massage bien être / Modelage - hors prestation de soin à caractère médical/paramédical et exploitation de Spa"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Massage Bols Tibétains"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Massage californien"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Massage Edonis"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Massage lemniscate"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Massage Lomi Lomi"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Massage lymphatique"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Massage sensoriel"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Massage Taï"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Massage tampons de Siam (ou Herbal Siam)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Massage Thaï traditionnel"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Massothérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Médecine Symbolique®"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Médiation Familiale"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Médiation par l’animal"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Méditation"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Médium"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Mémoire cellulaire"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Mentaliste"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Meridian tapping therapy"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Métapsychobiologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Méthode 3C (concentration, calme, contrôle)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Méthode Alpé"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Méthode AORA"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Méthode Bates"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Méthode Bowen"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Méthode des 2 points"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Méthode des 4 dimensions"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Méthode du journal créatif"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "méthode eibed"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Méthode Feldenkrais"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Méthode LEEA (libération des émotions et des allergies associées)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Méthode Linequartz®"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Méthode Meer®"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Méthode Naet"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Méthode Naët"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Méthode Quantique"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Méthode Quertant ou Culture Psycho-sensorielle (CPS)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Méthode Sinovi"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Méthode T.R.E. (Tension and Trauma Releasing Exercices)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Méthode Tomatis"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Méthode UPLEDGER"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Méthodes de Jacquier"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Mézières (méthode)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Micro-courant"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Micro-ostéo digitale®"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Mindfulness"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Modelage drainage lymphatique"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Mora (Thérapie), pratiqué uniquement par un docteur en médecine, une sage-femme ou un kinésithérapeute"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Morphopsychlogie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Morphopsychologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Moxibustion"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Mudrâs"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Multiréflexologie Dien Chan"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Musicothérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Myers briggs"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "NAET® (Méthode)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Naturopathie (hygiène de vie, massothérapie, psychologie, aromathérapie), à l’exclusion de la prescription ou la vente de complément alimentaire"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Naturopathie, à l'exclusion de toute pescription ou vente de produits, compléments alimentaires"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "NERTI (Nettoyage Emotionnel Rapide des Traumatismes inconscients)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Neurofeedback"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Neurothéapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Neuro-training"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Numérologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Olfactothérapie®"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Oligothérapie (hors prescription médicale et/ou de compléments alimentaires et/ou vente de produits)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Onctions aromatiques"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Ondobiologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Orthopédagogue"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "OstéoFluidique"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Oxygénation cellulaire (méthode bol d'air Jacquier)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Oxygénothérapie non médicale, hors caisson hyperbare"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Padovan (Méthode)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Parapsychologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "PEAT (activation de l’énergie primordiale de la transcendance)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Pédagogie perceptive®"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Pélothérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Percussions et danses Africaines"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Phénothérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Phytologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Pig (Cochon) Thérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Pilates"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Plastithérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "PNL (Programmation neurolinguistique)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Podoréflexologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Posturologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Pranathérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Pratique du Mandala"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Préparation Mentale"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Prévention du stress, gestion émotionnelle"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Programmation neuro linguistique (PNL)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Psycho-bio-acupressure"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Psychobiologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Psycho-énergéticien"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Psychogénéalogie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Psycho-généalogie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Psychologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Psychologie Biodynamique"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Psychomotricien"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Psychopathologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Psychophanie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Psychophonie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Psychopraticien"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Psychosociologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Psychosomaticien"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Psycho-somatothérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Psychosynthèse"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Psychothérapie (Gestalt thérapie, approche centrée sur la personne, thérapie psycho corporelle)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Psychothérapie (y compris téléconsultation)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Pychopracticien"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Qi Gong"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Quantum Touch®"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Radiesthésie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Radiésthésie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Reboutement"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Rebouteux"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Reboutologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Rebouto-réactivopathe"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Reconnexion"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Rééducation par résonance"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Rééquilibrage Energétique Biopolarité®"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Réflexologue"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Reiki"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Réinformation Vibratoire"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Relation d’aide par le toucher®"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Relaxation coréenne"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Relaxation musculaire profonde"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Relaxologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "REMAP®"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Résonnance Energétique par Stimulation Cutanée (RESC)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Respiration Holotropique"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Rigologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "RITMO"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "RMTI (Rhytmic Movement Training International)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Rolfing"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Rosen (Méthode)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Routinologue"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Runes (Méthode)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Santé humaniste (hors prescription médicale et/ou de compléments alimentaires et/ou vente de produits)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Santé humaniste,hors prescription médicale et/ou de compléments alimentaires et/ou vente de produits"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Scenar (Thérapie)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Sensymagologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Sexo-Conjugothérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Sexologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Sexothérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Shiatsu"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Shiatsu (Watsu)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Shiatsu Fluidique"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Shiatsu Thérapeuthique"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Shinrin-yoku/Eco-thérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Shiroshampi"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Shugendo"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Shutaïdo"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Simonton (Méthode) et la visualisation"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Soins Esséniens"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Soins Ethérique"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Soins Holistiques (hors prescription médicale et/ou de compléments alimentaires et/ou vente de produits)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Somato-analyse"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Somatopathie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Somato-psychopédagogie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Somato-Relaxologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Somatothérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Sonothérpaie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Sophro en entreprise"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Sophro-analyse"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Sophrologue"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Sophro-relaxation et sophro-relaxation ludique"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Sophro-sexualité"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Sophro-sport"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Sourcier"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Stretching"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Stretching Postural®"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Sylvothérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Synergologie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "T.C.C. – Thérapie comportementale et cognitive"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Tabac Stop (Conseils uniquement)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Tai Chi Chuan"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Tai Ji Quan"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Tantrisme"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Tao de la voix"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Tarot"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "TAT (Tapas Acupressure Technique)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Technique AromaTouch™"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Technique Autogénic"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Technique d’Alexander"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Technique d’Alexandre"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Technique d’alignement du corps"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Technique d’identification sensorielle des peurs inconscientes (TIPI)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Technique de Reiki"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Technique de Rolfing"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Technique des diapasons thérapeutiques"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Technique des points Knap"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Technique métamorphique"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Technique Nia ou Nia"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Techniques de Moxa"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Techniques respiratoires"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "The Journey (Thérapie)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Théatro thérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Thème de Cristal"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Thème Minéral"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Thérapeute de l'âme"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Thérapeute neurosciences EPRTH"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Thérapie cranio-sacrale, pratiqué uniquement par un docteur en médecine, ou un kinésithérapeuthe"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Thérapie familiale"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Thérapie Intuitive"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Thérapie magnétique"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Thérapie minérale Celluloid"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Thérapie par la polarité"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Thérapie par les Cristaux"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Thérapie par un toucher léger"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Thérapie par un toucher léger (massage sensoriel)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Thérapie sonore"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Thérapie systémique & stratégique"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Thérapies brèves"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Thérapies Chi"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "ThetaHealing®"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Toucher de présence dynamique®"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Trager® (Technique)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Training autogène"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Traitement énergétique des allergies"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Trame"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Travail à pied en médiation équine à l’exclusion de toute autre technique d’équithérapie, notamment à l’exclusion du handisport, de l’équihandi, de l’équicie, de l’hippothérapie, de l’équithérapie et de l’équitation"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Tricothérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Tui na"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Tuina"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Upbraining"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Vacuum"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Valaikappu"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Vibration Japonaise"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Vitaminothérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Vittoz (Méthode)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Vocale (Thérapie)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Voyance"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Wai Qi Liao Fa"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Watsu"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Wudang quan (art martial)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Wutao"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Yang Sheng"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Yang Shiatsu"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Yi King"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Yin Shiatsu"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Yin Yoga"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Yoga Aérien"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Yoga des yeux"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Yoga du rire"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Yoga du Son"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Zen Streching®"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Zentangle"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Bien être",
+    "activity": "Zoothérapie"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Beauté",
+    "activity": "Coiffeur / Coiffeur à domicile / coiffeur visagiste"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Beauté",
+    "activity": "Soins esthétiques à domicile"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Beauté",
+    "activity": "Manucure, onglerie, esthétique (Avec UV, Laser, Tatouage)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Beauté",
+    "activity": "Esthéticien / Esthéticienne - hors épilation avec lumière pulsée et laser"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Beauté",
+    "activity": "Manucure, onglerie, esthétique (Sans UV, Laser, Tatouage)"
+  },
+  {
+    "sector": "Bien-être et Santé",
+    "category": "Beauté",
+    "activity": "Autre - Beauté - Service à la personne"
+  }
+]
