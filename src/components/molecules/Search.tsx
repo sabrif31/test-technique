@@ -8,7 +8,7 @@ import Fuse from 'fuse.js'
 import Item from '../atoms/Item'
 import CustomTextField from '../atoms/TextField'
 
-import data from './datas.json'
+import data from '../../datas/datas.json'
 
 type Items = {
   activity: string
